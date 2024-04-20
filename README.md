@@ -8,7 +8,7 @@ Recreating designs, UI mockups or just ideas is first responsibility of any mobi
 
 The idea is to give us the confidence that how convenient it is to recreate the designs on Flutter of everyday apps we use.
 
-This project aims to demonstrate how to build a visually appealing and responsive user interface using Flutter widgets and design principles.
+This project aims to demonstrate how to build a visually appealing instagram user interface using Flutter widgets and design principles.
 
 ### Getting Started
 
